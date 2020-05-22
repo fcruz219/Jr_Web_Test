@@ -1,0 +1,154 @@
+#nav-container {
+	position: absolute;
+	width: 1440px;
+	height: 108px;
+	left: 0px;
+	top: 0px;
+
+	background: #ffffff;
+}
+.main-navigation {
+	/* position: absolute; */
+	width: 137px;
+	height: 23px;
+	left: 25%;
+	top: calc(50% - 23px/2 + 1.5px);
+
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 23px;
+	/* identical to box height */
+
+	text-align: center;
+
+	/* Rich Blue Black */
+
+	color: #002240;
+}
+
+#demo {
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 23px;
+	/* identical to box height */
+
+	display: flex;
+	align-items: center;
+	text-align: center;
+
+	color: #ffffff;
+}
+#login {
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 23px;
+	/* identical to box height */
+
+	display: flex;
+	align-items: center;
+	text-align: center;
+
+	/* Primary Blue */
+
+	color: #0688fa;
+}
+
+#logo {
+	position: absolute;
+	width: 186px;
+	height: 32px;
+	left: 116px;
+	top: calc(50% - 32px/2);
+}
+#nav-group {
+	position: absolute;
+	width: 387px;
+	height: 23px;
+	left: 527px;
+	top: 44px;
+}
+
+#hero-img {
+	position: absolute;
+	width: 1219px;
+	height: 300px;
+	left: 110px;
+	top: 168px;
+
+	/* background: url(Screenshot 2020-05-19 at 4.04.png); */
+}
+.ai {
+	position: absolute;
+	width: 498px;
+	height: 187px;
+	left: 116px;
+	top: 530px;
+
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	line-height: 62px;
+	/* or 107% */
+
+	/* Rich Blue Black */
+
+	color: #002240;
+}
+.para {
+	position: absolute;
+	width: 590px;
+	height: 513px;
+	left: 732px;
+	top: 535px;
+
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 32px;
+	/* or 178% */
+
+	/* Rich Blue Black */
+
+	color: #002240;
+}
+
+.culture {
+	position: absolute;
+	width: 1206px;
+	height: 62px;
+	left: 109px;
+	top: 80px;
+
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	line-height: 62px;
+	/* identical to box height, or 107% */
+
+	display: flex;
+	align-items: center;
+	text-align: center;
+	letter-spacing: -0.01em;
+
+	/* Rich Blue Black */
+
+	color: #002240;
+}
+
+.mission {
+	/* Mission */
+
+	position: relative;
+	width: 1440px;
+	height: 787px;
+
+}
